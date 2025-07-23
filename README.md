@@ -3,7 +3,7 @@ I'm Patrine Fernandes, and I have 30 years old. I live in São Paulo/Brazil.
 
 Here, I share my personal projects and learning experiences throughout my journey in the technology field.
 
-- 🌱 I’m currently learning jAVA language and i'm very entusiast of backend developer.
+- 🌱 I’m currently learning JAVA language and i'm very entusiast of backend developer.
 - 💻 Now, I am studying Systems Analysis and Development, at college.
 
 <div style="display: inline_block"><br>
