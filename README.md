@@ -1,7 +1,11 @@
-# 👩🏻‍💻 Patrine Fernandes
+# Olá! Bem vindo(a) ao meu perfil! 
 
-Me chamo Patrine Fernandes dos Santos, tenho 30 anos e sou natural de São Paulo. Atualmente curso técnico em Desenvolvimento de Sistemas na ETEC. Sou apaixonada por tecnologia e dei inicio a compartilhar minha trajetoria na area de TI através do meu canal no YouTube "[Patrine Fernandes](https://www.youtube.com/@patrinefernandes)", onde mostro um pouco sobre mim, sobre o curso e tambem é o lugar aonde pretendo futuramente, ajudar pessoas ensinando conteudos basicos da area.
+Sou graduanda em Tecnologia de Banco de Dados no Centro Universitário Uninter, além disso sou estudante Etec de Desenvolvimento de Sistemas, e estou direcionando meu foco de estudos para a área de Análise de Dados.
 
+➡️ Estou desenvolvendo habilidades em:
+Excel e SQL. Além de Python e Power BI voltado para analise de dados e criação de dashboards.
+
+Sou uma pessoa organizada, comunicativa, analítica, com facilidade de aprendizado e com interesse constante em evolução profissional e de aprendizados. A paixão pela tecnologia é o que me motiva a aprender continuamente e a estar aberta a novas experiências e desafios.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -18,19 +22,6 @@ Me chamo Patrine Fernandes dos Santos, tenho 30 anos e sou natural de São Paulo
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=patrinefs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrinefs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
