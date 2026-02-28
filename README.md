@@ -1,28 +1,29 @@
-# Olá! Bem vindo(a) ao meu perfil! 
+<h1 align="left">Olá! Seja Bem Vindo (a) ao meu Github</h1>
 
-Sou graduanda em Tecnologia de Banco de Dados no Centro Universitário Uninter, além disso sou estudante Etec de Desenvolvimento de Sistemas, e estou direcionando meu foco de estudos para a área de Análise de Dados.
+###
 
-➡️ Estou desenvolvendo habilidades em:
-Excel e SQL. Além de Python e Power BI voltado para analise de dados e criação de dashboards.
+<p align="left">Meu nome é Patrine Fernandes, tenho 30 ano, sou Analista de Dados e e moro em São Paulo, Zona Leste.</p>
 
-Sou uma pessoa organizada, comunicativa, analítica, com facilidade de aprendizado e com interesse constante em evolução profissional e de aprendizados. A paixão pela tecnologia é o que me motiva a aprender continuamente e a estar aberta a novas experiências e desafios.
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<h2 align="left">About me</h2>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+###
 
-<br/>
-<br/>
+<p align="left">Sou graduanda em Tecnologia de Banco de Dados no Centro Universitário Uninter, além disso sou estudante Etec de Desenvolvimento de Sistemas, e estou direcionando meu foco de estudos para a área de Análise de Dados.<br><br>➡️ Estou desenvolvendo habilidades em:<br>Excel e SQL. Além da linguagem Python e Power BI voltado para analise de dados e criação de dashboards. <br><br>Sou uma pessoa organizada, comunicativa, analítica, com facilidade de aprendizado e com interesse constante em evolução profissional e de aprendizados. A paixão pela tecnologia é o que me motiva a aprender continuamente e a estar aberta a novas experiências e desafios. Aqui voce encontrará um pouco das coisas que sei e projetos que desenvolvi.</p>
 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrinefs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+###
 
+<h4 align="left">Principais tecnologias</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
