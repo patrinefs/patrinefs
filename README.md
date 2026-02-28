@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Patrine Fernandes, tenho 30 anos e moro em São Paulo/Zona lesta da capital.
-  Meu objetivo profissional é ser uma Analista de Dados.</p>
+<p align="left">Meu nome é Patrine Fernandes, tenho 30 anos e moro em São Paulo/Zona leste da capital de sp.</p>
 
 ###
 
