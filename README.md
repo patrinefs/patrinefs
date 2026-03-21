@@ -16,26 +16,27 @@
 
 <!-- FRONT-END -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5" />
-<img width="8" />
+<img width="6" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="25" alt="css3" />
 
-<br><br>
+<img width="14" />
 
 <!-- BACK-END -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php" />
 
-<br><br>
+<img width="14" />
 
 <!-- BANCO DE DADOS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql" />
-<img width="8" />
+<img width="6" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="25" alt="azure sql" />
 
-<br><br>
+<img width="14" />
 
 <!-- FERRAMENTA -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="25" alt="vscode" />
 
+</div>
 </div>
 
 ###
