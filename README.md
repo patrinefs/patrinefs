@@ -4,7 +4,10 @@
 
 ###
 
-<p align="left">Meu nome é Patrine Fernandes, moro em SP/Capital. Sou graduanda em Tecnologia de Banco de Dados no Centro Universitário Uninter, além disso sou estudante Etec de Desenvolvimento de Sistemas, e estou direcionando meu foco de estudos para a área de Análise de Dados.<br><br>➡️ Estou desenvolvendo habilidades em:<br>Excel e SQL. Além da linguagem Python voltado para analise e automatização de processos em banco de dados. <br><br>Sou uma pessoa organizada, comunicativa, analítica, com facilidade de aprendizado e com interesse constante em evolução profissional e de aprendizados. A paixão pela tecnologia é o que me motiva a aprender continuamente e a estar aberta a novas experiências e desafios. Aqui voce encontrará um pouco das coisas que sei e projetos que desenvolvi.</p>
+<p align="left">Olá! Bem vindo(a) ao meu perfil! 
+Sou graduanda em Tecnologia em Banco de Dados e estudante nível técnico de Desenvolvimento de Sistemas, com foco direcionado à área de Análise de Dados.
+
+Venho desenvolvendo habilidades em modelagem de dados, SQL, Excel e Python aplicadas à organização, tratamento e visualização de informações atraves de dados para apoio à tomada de decisão. Busco seguir carreira na área de dados, contribuindo com analises que impactem positivamente no negócio utilizando tecnologia.</p>
 
 ###
 
