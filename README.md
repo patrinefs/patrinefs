@@ -25,19 +25,14 @@ Venho desenvolvendo habilidades em modelagem de dados, SQL, Excel e Python aplic
 <img width="14" />
 
 <!-- BACK-END -->
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img width="14" />
-
+<img width="6" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img width="6" />
           
 <!-- BANCO DE DADOS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql" />
 <img width="6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="25" alt="azure sql" />
-
-<img width="14" />
 
 <!-- FERRAMENTA -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="25" alt="vscode" />
