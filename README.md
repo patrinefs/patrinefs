@@ -25,10 +25,13 @@ Venho desenvolvendo habilidades em modelagem de dados, SQL, Excel e Python aplic
 <img width="14" />
 
 <!-- BACK-END -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img width="14" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
 <!-- BANCO DE DADOS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql" />
 <img width="6" />
