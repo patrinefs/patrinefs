@@ -1,12 +1,11 @@
 <h1 align="left">Olá! Seja Bem Vindo (a) ao meu Github</h1>
 <h2 align="left">About me</h2>
-###
-<p align="left">Olá! Bem vindo(a) ao meu perfil! 
+
 Sou graduanda em Tecnologia em Banco de Dados e estudante nível técnico de Desenvolvimento de Sistemas, com foco direcionado à área de Análise de Dados.
 Venho desenvolvendo habilidades em modelagem de dados, SQL, Excel e Python aplicadas à organização, tratamento e visualização de informações atraves de dados para apoio à tomada de decisão. Busco seguir carreira na área de dados, contribuindo com analises que impactem positivamente no negócio utilizando tecnologia.</p>
-###
+
 <h4 align="left">Principais tecnologias</h4>
-###
+
 <div align="left">
   
   <!-- FRONT-END -->
@@ -25,4 +24,3 @@ Venho desenvolvendo habilidades em modelagem de dados, SQL, Excel e Python aplic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql" />
   <img width="6" />
 </div>
-###
